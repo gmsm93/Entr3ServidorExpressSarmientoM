@@ -1,0 +1,15 @@
+{
+  "name": "desafioentregable3",
+  "version": "1.0.0",
+  "description": "Entregable 3 Gustavo Sarmiento",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Gustavo Miguel Sarmiento M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}

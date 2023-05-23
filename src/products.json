@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Nevera",
+    "description": "Nevera de 450 Litros marca LG",
+    "price": 1200,
+    "thumbnail": "url2",
+    "code": "12322",
+    "stock": 3
+  },
+  {
+    "id": 2,
+    "title": "Plancha",
+    "description": "Plancha A Vapor OSTER 2122070",
+    "price": 70,
+    "thumbnail": "url3",
+    "code": "43221",
+    "stock": 6
+  },
+  {
+    "id": 3,
+    "title": "Camiseta",
+    "description": "Camiseta Nike",
+    "price": 39,
+    "thumbnail": "shirt.jpg",
+    "code": "SHIRT001",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "Jeans",
+    "description": "Jean Levis Clasico",
+    "price": 59,
+    "thumbnail": "pants.jpg",
+    "code": "PANTS001",
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "title": "Plancha2",
+    "description": "Plancha A Vapor2",
+    "price": 70,
+    "thumbnail": "url3",
+    "code": "457775",
+    "stock": 6
+  },
+  {
+    "id": 6,
+    "title": "Celular",
+    "description": "SAMSUNG Galaxy M13 128 GB",
+    "price": 650,
+    "thumbnail": "url2",
+    "code": "CEL12322",
+    "stock": 3
+  },
+  {
+    "id": 7,
+    "title": "Plancha",
+    "description": "Plancha A Vapor OSTER 2122070",
+    "price": 70,
+    "thumbnail": "url3",
+    "code": "PL43221",
+    "stock": 6
+  },
+  {
+    "id": 8,
+    "title": "Plancha2",
+    "description": "Plancha A Vapor2",
+    "price": 70,
+    "thumbnail": "url3",
+    "code": "PL457775",
+    "stock": 6
+  }
+]
