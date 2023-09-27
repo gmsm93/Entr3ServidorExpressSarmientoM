@@ -109,4 +109,5 @@ productManager.addProduct('Celular','SAMSUNG Galaxy M13 128 GB',650,"url2","CEL1
 productManager.addProduct('Plancha','Plancha A Vapor OSTER 2122070',70,"url3","PL43221",6) 
 productManager.addProduct('Plancha2','Plancha A Vapor2',70,"url3","PL457775",6) 
 console.log(productManager.getProducts())
+
 // Es importante tener en cuenta que solo registra productos que tenga diferente codigo en el campo "Code"
