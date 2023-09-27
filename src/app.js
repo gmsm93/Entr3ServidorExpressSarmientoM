@@ -1,4 +1,4 @@
-// Servidor para consulta de productos desde el administrados de productos con Express
+// Servidor para consulta de productos desde el administrados de productos con un servidor Express
 // Permite consultar toda la base de datos en formato JSON, filtrarla con un Limit y buscar productos por ID
 // Creado por Gustavo Miguel Sarmiento Murillo
 
